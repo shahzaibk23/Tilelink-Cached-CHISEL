@@ -1,4 +1,4 @@
-Tilelink Cached (TL-C
+Tilelink Cached (TL-C)
 =======================
 
 This repo contains TL-C implementation in CHISEL
