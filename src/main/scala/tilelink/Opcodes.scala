@@ -2,7 +2,7 @@ package tilelink
 
 trait OpCodes {
 //  val Message         = OpCode    // Channel         Response Message
-    val AcquireBlock    = 6         //    A            Grant, GrantAck
+    val Acquire         = 6         //    A            Grant, GrantAck
     val Grant           = 4         //    D            GrantAck
     val GrantData       = 5         //    D            GrantAck
     val ProbeBlock      = 6         //    B            ProbeAck, ProbeAckData
